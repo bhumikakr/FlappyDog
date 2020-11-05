@@ -4,7 +4,7 @@ A modification of Flappy Bird, built using PyGame.
 # Instructions:
  Install Python 3.7.
 
- Change the directory to folder where the FlappySunny file is present.
+ Change the directory to game folder .
  
  Install pygame:
   > pip install pygame
