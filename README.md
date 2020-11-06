@@ -8,7 +8,7 @@
  
  Install pygame:
   > pip install pygame
-  Or
+ Or
   > pip install -U pygame --user
   
  To run the game:
