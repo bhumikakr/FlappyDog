@@ -1,5 +1,5 @@
 # FlappySunny:
-A modification of Flappy Bird, built using PyGame.
+ Built using PyGame, a modification of Flappy Bird game.
 
 # Instructions:
  Install Python 3.7.
@@ -15,6 +15,6 @@ A modification of Flappy Bird, built using PyGame.
   > py FlappySunny.py
 
 # To play FlappySunny:
-Press Space to start the game and to move the dog up or down.
-Aim is to keep the dog from colliding the obstacles. Once the dog collides, he will fall, resulting the end of a game. Press Space to start a new round.
-Press Esc to exit the game.
+ Press Space to start the game and to move the dog up or down.
+ Aim is to keep the dog from colliding the obstacles. Once the dog collides, he will fall, resulting the end of a game. Press Space to start a new round.
+ Press Esc to exit the game.
