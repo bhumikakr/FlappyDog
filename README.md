@@ -2,9 +2,9 @@
  Built using PyGame, a modification of Flappy Bird game.
 
 ## Instructions:
- -Install Python 3.7.
+ - Install Python 3.7.
  
- -Change the directory to game folder .
+ - Change the directory to game folder .
 
  -Install pygame:
  ```
@@ -15,7 +15,7 @@
    pip install -U pygame --user
  ```
  
- -To run the game:
+ - To run the game:
  ```
    py FlappySunny.py
  ```
