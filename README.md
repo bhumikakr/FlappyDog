@@ -21,6 +21,6 @@
  ```
 
 ## To play FlappySunny:
- Press <kbd>Space</kbd> to start the game and to move the dog <kbd>up</kbd> or <kbd>down</kbd>.
+ Press <kbd>Space</kbd> to start the game and to move the dog up or down.
  Aim is to keep the dog from colliding the obstacles. Once the dog collides, he will fall, resulting the end of a game. Press <kbd>Space</kbd> to start a new round.
  Press <kbd>Esc</kbd> to exit the game.
