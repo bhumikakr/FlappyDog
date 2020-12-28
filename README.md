@@ -6,7 +6,7 @@
  
  - Change the directory to game folder .
 
- -Install pygame:
+ - Install pygame:
  ```
    pip install pygame
  ```
