@@ -1,10 +1,10 @@
-## FlappyDog:
+## Flappydog:
  Built using PyGame, a modification of Flappy Bird game.
 
 ## Instructions:
  - Install Python 3.7.
  
- - Change the directory to game folder .
+ - Change the directory to game folder.
 
  - Install pygame:
  ```
